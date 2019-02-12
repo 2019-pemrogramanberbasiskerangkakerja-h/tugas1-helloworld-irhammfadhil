@@ -7,8 +7,17 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-irhammfadhil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-irhammfadhil/issues"
+  },
+  "homepage": "https://github.com/2019-pemrogramanberbasiskerangkakerja-h/tugas1-helloworld-irhammfadhil#readme",
+  "description": ""
 }
